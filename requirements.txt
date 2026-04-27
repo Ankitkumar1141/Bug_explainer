@@ -1,0 +1,12 @@
+torch
+transformers>=4.42.0
+peft>=0.11.0
+trl>=0.9.0
+datasets>=2.20.0
+accelerate>=0.30.0
+pyyaml>=6.0
+safetensors>=0.4.3
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+streamlit>=1.36.0
+pytest>=8.2.0
